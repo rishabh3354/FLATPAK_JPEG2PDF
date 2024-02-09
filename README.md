@@ -2,7 +2,7 @@
 
 JPEG2PDF Convert Your **Images Into PDFs** and Supports JPG, JPEG, PNG, BMP, PNG, BMP, SVG, TIFF Etc Images Format, Also you can Encrypt your PDF files with **AES-256 bit Encryption.**
 
-***Update:** Drag drop files feature is added in the app.*
+***Update 2024.2.1:** Drag drop files feature is added.*
 
 **FEATURES :** 
 
@@ -17,9 +17,29 @@ JPEG2PDF Convert Your **Images Into PDFs** and Supports JPG, JPEG, PNG, BMP, PNG
  - Protect your PDF with **AES 256bit Encryptions.**
 
 
-**KEYWORDS:** 
+## Install FormatLab on Linux Desktop:
 
-*smallpdf, ilovepdf, freepdfconverter, toolpdf24, adobepdf, jpg2pdf, jpgtopdf, imagetopdf, image2pdf, sejda, pdfonline, sodapdf, pdf2go, itextpdf, image converter, convert jpg to pdf, pspdfkit, pdftools, avepdf, foxit, wondershare, pdfresizer, img2go, img2pdf, online2pdf, bigpdf, pdfelement, nitro, jpg2pdf linux, pdf2go*
+**Snap**
 
--------------------------------------------------------------------------------------------------------
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/jpg2pdf)
+
+Install with command-line
+
+`snap install jpg2pdf`
+
+and run
+
+`jpg2pdf`
+
+**Flatpak**
+
+<a href="https://flathub.org/apps/details/com.warlordsoftwares.jpeg2pdf"><img src="https://flathub.org/assets/badges/flathub-badge-en.png"  height="56" width="186" alt="Get it from the Flathub Store" ></a>
+
+Install with command-line
+
+`flatpak install flathub com.warlordsoftwares.jpeg2pdf`
+
+and run
+
+`flatpak run com.warlordsoftwares.jpeg2pdf`
 
