@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.warlordsoftwares.jpeg2pdf</id>
+    <project_license>GPL-3.0+</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+    <developer_name>Warlord Softwares</developer_name>
+  <name>JPEG2PDF</name>
+  <summary>Convert Images Into PDF File</summary>
+  <description>
+    <p>ABOUT APPLICATION :</p>
+    <p>JPEG2PDF is a Powerful Application For Converting Your Image Files Into PDF. It Supports JPG, JPEG, PNG, BMP, PNG, BMP, SVG, TIFF Etc Images Format, Also you can Encrypt your PDF files with AES-256 bit Encryption</p>
+    <p>FEATURES :</p>
+    <ul>
+        <li>Select Images in Bulk and One Click to Convert Images into PDFs.</li>
+        <li>Support Auto orientation and Auto page formatting.</li>
+        <li>Set Page Margin with image position in page.</li>
+        <li>Supports standard PDF page sizes (A4, A3, A5, letter etc...)</li>
+        <li>Rotates Images and PDF pages from page ranges.</li>
+        <li>Grayscale and black and white images in PDF.</li>
+        <li>Auto Page Numbering support with all font styling.</li>
+        <li>Set Manual DPI of the images.</li>
+        <li>Protect your PDF with AES 256bit Encryptions.</li>
+    </ul>
+  </description>
+      <categories>
+        <category>Utility</category>
+        <category>Productivity</category>
+        <category>Photo And Video</category>
+      </categories>
+    <keywords>
+		<keyword translate="no">JPEG2PDF</keyword>
+		<keyword>jpg2pdf</keyword>
+		<keyword>PDF converter</keyword>
+		<keyword>image2pdf</keyword>
+		<keyword>convert images to PDF</keyword>
+		<keyword>convert JPEG to PDF</keyword>
+		<keyword>convert PNG to pdf</keyword>
+	</keywords>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/rishabh3354/FLATPAK_JPEG2PDF/main/share/screenshots/jpeg2pdf_screenshot_1.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/rishabh3354/FLATPAK_JPEG2PDF/main/share/screenshots/jpeg2pdf_screenshot_2.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/rishabh3354/FLATPAK_JPEG2PDF/main/share/screenshots/jpeg2pdf_screenshot_3.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/rishabh3354/FLATPAK_JPEG2PDF/main/share/screenshots/jpeg2pdf_screenshot_4.jpg</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/rishabh3354/FLATPAK_JPEG2PDF</url>
+    <url type="bugtracker">https://github.com/rishabh3354/FLATPAK_JPEG2PDF/issues</url>
+	<url type="donation">https://www.paypal.me/rishabh3354/10</url>
+    <url type="contact">https://warlordsoftwares.com/contact-us/</url>
+  <update_contact>contact@warlordsoftwares.com</update_contact>
+  <launchable type="desktop-id">com.warlordsoftwares.jpeg2pdf.desktop</launchable>
+   <content_rating type="oars-1.1" />
+  <releases>
+  <release version="2024.2.1" date="2024-02-01" type="stable" urgency="high">
+    <description>
+      <p>Stable release 2024.2.10 revision 2</p>
+    </description>
+  </release>
+  </releases>
+</component>
