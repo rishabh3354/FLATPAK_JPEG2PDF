@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=JPEG2PDF
+StartupWMClass=JPEG2PDF
+Comment=JPEG2PDF for Desktop
+GenericName=JPEG2PDF for Linux
+Exec=jpeg2pdf.sh %u
+Icon=com.warlordsoftwares.jpeg2pdf
+Terminal=false
+Type=Application
+StartupNotify=true
+Keywords= jpgtopdf; jpg2pdf; image2pdf; jpeg2pdf; png2pdf; convert image to PDF; png to pdf; png2pdf; pdf converter;
+Categories=Utility;Qt;
