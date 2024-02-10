@@ -1,0 +1,34 @@
+#flatpak cmds (for yml for flatpak repo fork):
+
+# build cmd:
+flatpak run org.flatpak.Builder --force-clean --sandbox --user --install builddir com.warlordsoftwares.jpeg2pdf.yml
+
+# run flatpak app
+flatpak run com.warlordsoftwares.jpeg2pdf
+
+# run app shell flatpak
+flatpak run --command=sh --devel com.warlordsoftwares.jpeg2pdf
+
+# generate python module using pip dependency package.
+python3 ../../pip-generator/flatpak-pip-generator.py requests
+
+# push github tag for release (overwrite current tag and release)
+git tag -af 2024.2.1 -m "build 10"
+git push --force origin 2024.2.1
+
+# FLATHUB - Add a new App (Step by step):
+
+Open terminal
+git clone --branch=new-pr git@github.com:rishabh3354/flathub.git
+cd flathub
+git checkout -b com.warlordsoftwares.jpeg2pdf
+<add apps files and data>
+git add .
+git commit -m "flatpak 4ktube"
+git push origin com.warlordsoftwares.jpeg2pdf
+<raise new pr with title 'Add com.warlordsoftwares.jpeg2pdf' >
+<Trigger build using cmd: 'bot, build com.warlordsoftwares.jpeg2pdf'>
+<Your app will be review. Done>
+
+
+
