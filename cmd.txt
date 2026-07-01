@@ -13,7 +13,7 @@ flatpak run --command=sh --devel com.warlordsoftwares.jpeg2pdf
 python3 ../../pip-generator/flatpak-pip-generator.py requests
 
 # push github tag for release (overwrite current tag and release)
-git tag -af 2024.2.1 -m "build 10"
+git tag -af 2026.7.2 -m "build 10"
 git push --force origin 2024.2.1
 
 # FLATHUB - Add a new App (Step by step):
