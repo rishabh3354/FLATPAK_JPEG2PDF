@@ -7,24 +7,24 @@
   <name>JPEG2PDF</name>
   <summary>Convert Images Into PDF File</summary>
   <description>
-  <p><b>ABOUT JPEG2PDF</b></p>
-    <p>JPEG2PDF is a fast and easy-to-use image to PDF converter for Linux. Convert JPG, JPEG, PNG, BMP, GIF, TIFF, SVG, WebP, and other image formats into high-quality PDF documents in just a few clicks. Create single or multipage PDF files from your photos and images while preserving image quality and page layout.</p>
+  <p>About JPEG2PDF</p>
+  <p>JPEG2PDF is a fast and easy-to-use image to PDF converter for Linux. Convert JPG, JPEG, PNG, BMP, GIF, TIFF, SVG, WebP, and other image formats into high-quality PDF documents in just a few clicks. Create single or multi-page PDF files from your photos and images while preserving image quality and page layout.</p>
   <p>Whether you need to convert scanned documents, photos, screenshots, receipts, or artwork into PDF, JPEG2PDF provides powerful customization options, including page size, margins, orientation, DPI, page numbering, grayscale conversion, and AES-256 PDF encryption.</p>
 
-  <p><b>FEATURES</b></p>
-    <ul>
-      <li>Convert JPG, JPEG, PNG, BMP, GIF, TIFF, SVG, WebP, and other image formats to PDF.</li>
-      <li>Batch convert multiple images into a single PDF or create separate PDF files.</li>
-      <li>Automatic image orientation and intelligent page formatting.</li>
-      <li>Adjust page margins and image alignment.</li>
-      <li>Support for standard paper sizes including A4, A3, A5, Letter, Legal, and more.</li>
-      <li>Rotate selected images or PDF pages before exporting.</li>
-      <li>Create grayscale or black-and-white PDF documents.</li>
-      <li>Add automatic page numbers with customizable fonts and styles.</li>
-      <li>Set custom DPI for optimal print and image quality.</li>
-      <li>Protect PDF documents using AES-256 encryption with password security.</li>
-      <li>Fast, lightweight, and privacy-friendly with all processing performed locally.</li>
-    </ul>
+  <p>Features</p>
+  <ul>
+    <li>Convert JPG, JPEG, PNG, BMP, GIF, TIFF, SVG, WebP, and other image formats to PDF.</li>
+    <li>Batch convert multiple images into a single PDF or create separate PDF files.</li>
+    <li>Automatic image orientation and intelligent page formatting.</li>
+    <li>Adjust page margins and image alignment.</li>
+    <li>Support for standard paper sizes including A4, A3, A5, Letter, Legal, and more.</li>
+    <li>Rotate selected images or PDF pages before exporting.</li>
+    <li>Create grayscale or black-and-white PDF documents.</li>
+    <li>Add automatic page numbers with customizable fonts and styles.</li>
+    <li>Set custom DPI for optimal print and image quality.</li>
+    <li>Protect PDF documents using AES-256 encryption with password security.</li>
+    <li>Fast, lightweight, and privacy-friendly with all processing performed locally.</li>
+  </ul>
 </description>
 
 <keywords>
