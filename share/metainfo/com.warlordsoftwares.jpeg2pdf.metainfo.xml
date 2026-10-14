@@ -67,6 +67,26 @@
   <launchable type="desktop-id">com.warlordsoftwares.jpeg2pdf.desktop</launchable>
    <content_rating type="oars-1.1" />
   <releases>
+    <release version="2026.10.1" date="2026-10-14" type="stable" urgency="medium">
+      <description>
+        <p>A big update with many features requested by users:</p>
+        <ul>
+          <li>Sort images by name, date changed, file size or date taken, drag them into any order, or move them to the top or bottom</li>
+          <li>New images are ticked automatically; click the tick column header to tick or untick all</li>
+          <li>Rotate or crop single images; your image files are never changed</li>
+          <li>Put 2, 4, 6 or 9 images on one page, great for receipts and ID cards</li>
+          <li>Make a separate PDF for each image with the same name, including all pages of multi-page TIFF files</li>
+          <li>Make PDFs smaller with image compression</li>
+          <li>Clean up scans: straighten tilted pages, cut off dark borders and make text clearer</li>
+          <li>Split into several PDFs, or add images to the end of an existing PDF</li>
+          <li>Legal and custom page sizes</li>
+          <li>Presets, PDF preview, undo, built-in help and keyboard shortcuts</li>
+          <li>Save PDFs to any folder, including USB drives</li>
+          <li>Clearer, larger text with an adjustable text size, and plain-language messages</li>
+          <li>Fixed: PDFs are now saved in the JPEG2PDF folder shown in the app (PDFs made before stay in the JPGE2PDF folder)</li>
+        </ul>
+      </description>
+    </release>
     <release version="2026.7.2" date="2026-07-01" type="stable" urgency="high">
     <description>
       <p>Runtime updates</p>

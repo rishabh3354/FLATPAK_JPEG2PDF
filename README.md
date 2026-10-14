@@ -15,6 +15,20 @@ JPEG2PDF Convert Your **Images Into PDFs** and Supports JPG, JPEG, PNG, BMP, PNG
  - Auto **Page Numbering** support with all font styling.
  - Set Manual **DPI** of the images.
  - Protect your PDF with **AES 256bit Encryptions.**
+ - **Sort** by name, date modified, file size or date taken; drag rows to reorder or move images to the top/bottom.
+ - **Compress** images for much smaller PDFs.
+ - **Split** into several PDFs, or add images to the end of an existing PDF.
+ - **Batch convert** each image into its own PDF with the same name (photo.tif → photo.pdf), including multi-page TIFFs.
+ - New images are **ticked automatically**; click the ✓ column header to tick or untick all.
+ - **Rotate or crop** single images (only the PDF changes, never your files).
+ - Put **2, 4, 6 or 9 images on one page**, great for receipts and ID cards.
+ - Page sizes A3, A4, A5, Letter, **Legal** or any **custom size**.
+ - **Clean up scans**: straighten tilted pages, cut off dark borders, make text clearer.
+ - Save your favourite settings as **presets**.
+ - **Preview** the PDF before saving, and **undo** changes to the image list (Ctrl+Z).
+ - Save to any folder, including USB drives.
+ - Built-in **help** (F1) and keyboard shortcuts.
+ - Import folders **including subfolders**, and HEIC photos.
 
 
 ## Install FormatLab on Linux Desktop:
